@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielahristova&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielahristova" /> </p>
 
-- 🌱 I’m currently learning **JS, C#**
+- 🌱 I’m currently learning **JS, C#, C/C++**
 
 - 📫 How to reach me **gabriela.hr1406@gmail.com**
 
